@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+  - Consider roles: Developers, Product Manager, Project Manager, Scrum Master, QA, UX Designer, DevOps Engineer, Security Lead, Data Analyst, Support/Customer Success
 
 ## Project One-pager Template
 - Project name:
@@ -32,6 +33,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Key roles identified (PM, Scrum Master, Dev Lead, QA, UX, DevOps, Security Lead as needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

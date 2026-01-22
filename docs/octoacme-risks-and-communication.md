@@ -20,7 +20,8 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, customers)
+- Key roles to consider: Product Manager, Project Manager, Developers, QA, UX, DevOps, Security Lead, Support/Customer Success, Data Analyst
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
@@ -38,5 +39,7 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- Team-level -> Scrum Master/PM -> Product Lead -> Sponsor
+- For security incidents, follow the security incident runbook and notify Security Lead and Security on-call
+- For customer-impacting issues, notify Support/Customer Success team immediately
+- For infrastructure/deployment issues, engage DevOps Engineer and follow incident response protocol
