@@ -9,7 +9,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team (include Scrum Master, Dev Lead, QA, UX Designer, DevOps, Security Lead as appropriate)
+1. Kickoff meeting with stakeholders and delivery team
+   - Include relevant roles: Scrum Master, Dev Lead, QA, UX Designer, DevOps, Security Lead as appropriate
+   - See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for full role definitions
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)

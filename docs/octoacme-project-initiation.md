@@ -18,7 +18,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
-  - Consider roles: Developers, Product Manager, Project Manager, Scrum Master, QA, UX Designer, DevOps Engineer, Security Lead, Data Analyst, Support/Customer Success
+  - See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for role definitions
+  - Common roles to consider: Developers, Product Manager, Project Manager, Scrum Master, QA, UX Designer, DevOps Engineer, Security Lead, Data Analyst, Support/Customer Success
 
 ## Project One-pager Template
 - Project name:
